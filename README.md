@@ -5,3 +5,5 @@ The Model had an RSquared Error of: 0.9854451663357691
 
 The Predicted Prices and Actual Prices were correlated as shown in the Graph Below
 ![Actual Vs Predicted Price](https://github.com/ladiyusuph/gold_price_pred/blob/main/images/download.png)
+
+Dataset: https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
